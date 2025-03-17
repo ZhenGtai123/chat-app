@@ -220,6 +220,9 @@ Example:
 ```http
 GET /groups/1/messages?since=2023-01-01%2000:00:00
 ```
+## Note
+
+Did not add the delete functionalities, as was not required, but is definetely add good thing to be added in later production.
 
 ## Running Tests
 
